@@ -4,14 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pycurl = "*"
-bs4 = "*"
-rich = "*"
-curl-fetch2py = "*"
 requests = "*"
 
 [dev-packages]
-ipykernel = "*"
 
 [requires]
 python_version = "3.12"
